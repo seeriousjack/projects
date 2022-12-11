@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Rubiks";
-    src: url("/home/seriousjack/Templates/repo/html/projects/fonts/Rubik80sFade-Regular.ttf") format("truetype");
+    src: url("fonts/Rubik80sFade-Regular.ttf") format("truetype");
     font-weight: normal;
 }
 
 @font-face {
     font-family: "SecularOne";
-    src: url("/home/seriousjack/Templates/repo/html/projects/fonts/SecularOne-Regular.ttf") format("truetype");
+    src: url("fonts/SecularOne-Regular.ttf") format("truetype");
     font-weight: normal;
 }
 
